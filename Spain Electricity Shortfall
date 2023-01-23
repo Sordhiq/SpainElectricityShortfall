@@ -1,0 +1,9 @@
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+train_df = pd.read_csv("C:/Users/Sordhiq/Desktop/EDSA/Reg_Sprint/Test/Kaggle_Submission/df_train.csv")
+test_df = pd.read_csv("C:/Users/Sordhiq/Desktop/EDSA/Reg_Sprint/Test/Kaggle_Submission/df_test.csv")
+
+test_df.head()
