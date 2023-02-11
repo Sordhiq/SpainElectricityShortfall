@@ -12,7 +12,7 @@ At the end of the project, it was discovered among other observations that:
 
 Temperatures are mostly negatively correlated with Relative Humidity across any of the 5 Spanish cities. Meaning the higher the temperature, the lower the humudity.
 
-ii. Rainfall is similarly observed to be moderately positively correlated with Cloud coverings and Humidity across the cities. Meaning denser cloud covers and/or relative humidity, might imply higher chances of downpour
+Rainfall was similarly observed to be moderately positively correlated with Cloud coverings and Humidity across the cities. Meaning denser cloud covers and/or relative humidity, might imply higher chances of downpour
 
 iii. Atmospheric Pressure were similarly observed to be negatively correlated with Temperatures. Meaning as Atmospheric Pressure increases, so does Temperatures
 
@@ -27,4 +27,4 @@ ii. Looking at the wind speed data, Bilbao, Barcelona and Madrid tend to have mo
 
 iii. In as much as the Linear Regression was more efficient compared to the rest of the other Linear Models, The Boosting Ensembling method tend to be most efficient as a result of its least RMSE value than any other method attempted.Hence, was chosen for predicting load_shortfall_3h for any point in time across the 5 Spanish cities.
 
-iv. 
+iv. Across the 5 cities, Barcelona tend to have higher Atmospheric pressures across various parts of the year. As a result of this, the government could explore installing Steam Turbines in order to harness the abundance of pressure available for generating renewable energy.
